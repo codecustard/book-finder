@@ -1,3 +1,13 @@
+## Description
+
+This is a small project demonstrating how to use the [Google Books API](https://developers.google.com/books) to search for books. A backend server is not required as the data is retrieved through a public API request.
+
+## Dependencies
+- [React](https://reactjs.org/)
+- [Material UI](https://material-ui.com/)
+- [Axios](https://github.com/axios/axios)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
