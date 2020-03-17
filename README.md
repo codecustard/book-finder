@@ -1,3 +1,5 @@
+![ScreenShot](https://raw.github.com/codecustard/book-finder/master/book-finder.png)
+
 ## Description
 
 This is a small project demonstrating how to use the [Google Books API](https://developers.google.com/books) to search for books. A backend server is not required as the data is retrieved through a public API request.
